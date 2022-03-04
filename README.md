@@ -1,12 +1,12 @@
 # Hello_World
 I am currently a junior at the University of Iowa double majoring in finance and business analytics!
 # **Table of Contents**
-1. Project Title
-2. Description
-3. How to Run Program
-4. Files Used
-5. Additional Documentation
-6. Version Summary
+1. [Project Title](#project-title)
+2. [Description](#description)
+3. [How to Run Program](#how-to-run-program)
+4. [Files Used](#files-used)
+5. [Additional Documentation](#additional-documentation)
+6. [Version Summary](#versioning)
 # **Project Title**
 This is my ***introductory file*** for GitHub!
 # **Description**
@@ -20,7 +20,7 @@ This is where I **explain** and **detail**:
 This is where I include any links or files:
 
 **Example:**
-1. If I use the [University of Iowa website](https://uiowa.edu/)
+- [University of Iowa website](https://uiowa.edu/)
 # **Additional Documentation**
 I have no additional documentation at this time. 🚫
 # **Versioning**
